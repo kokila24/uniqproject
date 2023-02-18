@@ -1,0 +1,14 @@
+public class Hero1
+{
+static int a=10;
+public void add()
+{
+System.out.println(a);
+}
+public static void main(String args[])
+{
+Hero1 obj=new Hero1();
+obj.add();
+}
+}
+
